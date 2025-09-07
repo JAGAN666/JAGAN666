@@ -49,10 +49,6 @@ I am always open to **collaborations, networking, and exploring opportunities** 
 
 ## **📊 GitHub Stats & Contributions**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JAGAN666&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JAGAN666&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
