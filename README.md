@@ -68,7 +68,6 @@ I am always open to **collaborations, networking, and exploring opportunities** 
 📩 **Email:** [jagannathn@gwmail.gwu.edu](mailto:jagannathn@gwmail.gwu.edu)  
 💼 **LinkedIn:** [Jagannath Narayanaswamy](https://www.linkedin.com/in/jagannathn1/)  
 📊 **GitHub:** [JAGAN666](https://github.com/JAGAN666)  
-✍ **Medium:** [@jaganjagannath666](https://medium.com/@jaganjagannath666)  
 
 ---
 
