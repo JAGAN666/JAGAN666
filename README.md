@@ -47,13 +47,6 @@ I am always open to **collaborations, networking, and exploring opportunities** 
 
 ---
 
-## **📊 GitHub Stats & Contributions**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JAGAN666&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ## **📂 Featured Projects**
 🚕 **[NYC Taxi Trip Insights](https://github.com/JAGAN666/NYC-Taxi-Trip-Insights)**  
 🔹 **50GB+ Data Processed using PySpark** | 🔹 **Machine Learning for Fare Prediction**  
