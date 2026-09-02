@@ -1,86 +1,165 @@
-<h1 align="center">Hi 👋, I'm Jagannath Narayanaswamy</h1>
-<h3 align="center">Data Analyst | Data Scientist | Big Data & Machine Learning Enthusiast</h3>
+<h1 align="center">Hi, I'm Jagannath Narayanaswamy 👋</h1>
+
+<h3 align="center">AI/ML Engineer • Software Engineer • Healthcare AI • Agentic Systems</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JAGAN666&label=Profile%20views&color=0e75b6&style=flat" alt="JAGAN666" />
-  <a href="https://github.com/JAGAN666?tab=followers"><img src="https://img.shields.io/github/followers/JAGAN666?label=Followers&style=social" alt="GitHub Followers"></a>
+  Building production AI systems, intelligent agents, and data infrastructure for healthcare and research.
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JAGAN666&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://github.com/JAGAN666?tab=followers">
+    <img src="https://img.shields.io/github/followers/JAGAN666?label=Followers&style=social" alt="GitHub Followers" />
+  </a>
 </p>
 
 ---
 
-## **🌟 About Me**
-I am **Jagannath Narayanaswamy**, a **Data Analyst and Data Scientist** with expertise in **Big Data, Machine Learning, and Data Visualization**. Currently working as a **Research Specialist III at George Washington University**, I focus on **data-driven decision-making, predictive analytics, and large-scale data processing**.
+## About Me
 
-With strong skills in **Python, PySpark, SQL, and cloud technologies (AWS, Google Cloud)**, I specialize in **financial analytics, market trends, and AI-powered forecasting**. My passion lies in **solving complex data challenges** and using analytics to drive **real-world impact**.
+I'm **Jagannath Narayanaswamy**, an **AI/ML and Software Engineer** focused on building production-grade AI systems, data platforms, and intelligent applications—particularly in **healthcare and clinical AI**.
 
-I am always open to **collaborations, networking, and exploring opportunities** in the fields of **Data Science, Business Intelligence, and AI-driven analytics**. 🚀
+My work spans **LLM applications, agentic systems, retrieval-augmented generation (RAG), healthcare data infrastructure, machine learning, and large-scale analytics**. I enjoy working across the stack, from designing AI architectures and backend services to building data pipelines and deploying production applications.
+
+I have experience working in both **startup and research environments**, where I've built systems involving clinical data, healthcare analytics, AI agents, predictive modeling, and large-scale datasets.
+
+I'm particularly interested in problems at the intersection of:
+
+* 🤖 **AI Agents & LLM Systems**
+* 🏥 **Healthcare & Clinical AI**
+* 🔎 **RAG, Search & Knowledge Retrieval**
+* ⚙️ **AI Infrastructure & Backend Engineering**
+* 📊 **Machine Learning & Large-Scale Analytics**
+* ☁️ **Cloud-Native AI Applications**
+
+I'm always interested in connecting with engineers, researchers, and founders working on ambitious AI products.
 
 ---
 
-## 🚀 Tech Stack:
+## 🛠️ Technical Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PySpark-F7A41D?style=flat-square&logo=apache-spark&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Matplotlib-007ACC?style=flat-square&logo=matplotlib&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Seaborn-2E8B57?style=flat-square&logo=seaborn&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" />
-  <img src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+### Languages & Backend
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+</p>
+
+### AI / Machine Learning
+
+<p>
+  <img src="https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-FF6F00?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI%20Agents-5A29E4?style=flat-square" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+</p>
+
+### Data & Retrieval
+
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+</p>
+
+### Cloud & Infrastructure
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </p>
 
 ---
 
-## **📂 Featured Projects**
-🚕 **[NYC Taxi Trip Insights](https://github.com/JAGAN666/NYC-Taxi-Trip-Insights)**  
-🔹 **50GB+ Data Processed using PySpark** | 🔹 **Machine Learning for Fare Prediction**  
-🔹 **Optimized Trip Allocation for High-Demand Regions**  
+## 🚀 Selected Projects
 
-📈 **[Loan Performance Data Insights](https://github.com/JAGAN666/Loan-Performance-Data-Insights)**  
-🔹 **Fannie Mae Loan Analysis** | 🔹 **Credit Risk & Default Prediction**  
-🔹 **Data-Driven Insights for Mortgage Lending**  
+### 🧬 OpenBio-Intel
 
-💰 **[SEC Corporate Filings Insights](https://github.com/JAGAN666/SEC-Filings-Insights)**  
-🔹 **Financial Statement Analysis** | 🔹 **Graph-Based Anomaly Detection**  
-🔹 **AI-Driven Risk Assessment for Public Companies**  
+**Open-source biomedical intelligence and clinical research platform**
 
-🔗 **Explore More:** [GitHub Repositories](https://github.com/JAGAN666?tab=repositories)
+* Built a **FastAPI + Qdrant hybrid retrieval system** combining dense search, BM25, and reranking.
+* Developed AI-powered workflows for analyzing **clinical trials, therapeutic landscapes, mechanisms, and drug-development catalysts**.
+* Implemented **source-level citations and evidence retrieval** for generated biomedical intelligence.
+* Designed infrastructure for scalable biomedical search and agent-based research workflows.
+
+### 🏥 Clinical & Healthcare AI Systems
+
+**AI agents and infrastructure for healthcare workflows**
+
+* Built intelligent systems integrating **clinical data sources, EHR workflows, and healthcare APIs**.
+* Developed RAG pipelines across biomedical sources including **ClinicalTrials.gov, PubMed, and FDA data**.
+* Worked on agent orchestration, structured extraction, verification, and citation systems for clinical AI applications.
+* Built healthcare analytics systems supporting research and operational decision-making.
+
+### 🌎 Healthcare Research & Analytics
+
+**Large-scale healthcare data and visualization systems**
+
+* Developed interactive analytics platforms using **Python, SQL, React, PostgreSQL, and AWS**.
+* Worked with multi-million-record healthcare datasets and geographic datasets spanning thousands of U.S. counties.
+* Built predictive and statistical models to support healthcare research and resource-allocation decisions.
+
+### 🚕 NYC Taxi Trip Insights
+
+**50GB+ distributed data analytics pipeline**
+
+* Processed more than **50GB of trip data using PySpark**.
+* Built machine-learning models for fare prediction and demand analysis.
+* Analyzed geographic and temporal patterns to identify high-demand regions.
+
+🔗 **Explore my projects:** [github.com/JAGAN666](https://github.com/JAGAN666?tab=repositories)
 
 ---
 
-## **📡 Connect with Me**
-📩 **Email:** [jagannathn@gwmail.gwu.edu](mailto:jagannathn@gwmail.gwu.edu)  
-💼 **LinkedIn:** [Jagannath Narayanaswamy](https://www.linkedin.com/in/jagannathn1/)  
-📊 **GitHub:** [JAGAN666](https://github.com/JAGAN666)  
+## 🎯 Areas of Interest
+
+```text
+Healthcare AI       ████████████████████
+AI Agents / LLMs    ████████████████████
+RAG & Retrieval     ███████████████████░
+Backend Systems     ██████████████████░░
+Machine Learning    ██████████████████░░
+Data Engineering    █████████████████░░░
+```
 
 ---
 
-## **📜 Certifications & Awards**
-🏆 **SEAS Dean’s Award** – George Washington University  
-📜 **Google Data Analytics Professional Certificate**  
-📜 **Crash Course on Python – Coursera**  
+## 🏆 Recognition & Certifications
+
+* 🏆 **SEAS Dean's Award** — George Washington University
+* 📜 **Google Data Analytics Professional Certificate**
+* 📜 **Crash Course on Python — Coursera**
 
 ---
 
-## **🎯 Fun Fact About Me**
-🧩 "I believe every dataset tells a story. I love discovering insights that drive real-world impact!"  
+## 🤝 Connect
 
-🔥 If you like my work, feel free to ⭐ star my repositories and let's connect! 🚀  
+<p align="center">
+  <a href="mailto:jagannathn@gwmail.gwu.edu">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/jagannathn1/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/JAGAN666">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
----
+<p align="center">
+  <i>Building AI systems that turn complex healthcare and scientific data into useful products.</i>
+</p>
