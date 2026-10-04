@@ -6,11 +6,6 @@
   Building production AI systems, intelligent agents, and data infrastructure for healthcare and research.
 </p>
 
-<p align="center">
-  <a href="https://github.com/JAGAN666?tab=followers">
-    <img src="https://img.shields.io/github/followers/JAGAN666?label=Followers&style=social" alt="GitHub Followers" />
-  </a>
-</p>
 
 ---
 
