@@ -7,7 +7,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JAGAN666&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <a href="https://github.com/JAGAN666?tab=followers">
     <img src="https://img.shields.io/github/followers/JAGAN666?label=Followers&style=social" alt="GitHub Followers" />
   </a>
